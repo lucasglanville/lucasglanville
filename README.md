@@ -23,4 +23,5 @@ Technical highlight:
 Main studies:
 
 Le Wagon 2023 => Bootcamp in Data Science and Artificial Intelligence
+
 University of Edinburgh 2024 => MA Economics, graduating next year
